@@ -7,6 +7,7 @@ Educational Literacy. Watermarks never ever.
 Licensable under CC0. No credit required.
 You can even steal and sell my code with or without modification as your own and I would not care.
 Furthermore, I don't care what purposes you use this for.
+The test sample basically documents all the features.
 1.create a flat test world
 2.put the world code shown in bloxd code
 3.put the code block shown in a code block for test
